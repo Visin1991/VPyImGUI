@@ -61,7 +61,7 @@ def main():
 
 def impl_pysdl2_init():
     width, height = 1280, 720
-    window_name = "minimal ImGui/SDL2 example"
+    window_name = "HAHAH   VPyImGUI"
 
     if SDL_Init(SDL_INIT_EVERYTHING) < 0:
         print("Error: SDL could not initialize! SDL Error: " + SDL_GetError().decode("utf-8"))
